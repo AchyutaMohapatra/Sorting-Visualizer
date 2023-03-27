@@ -1,4 +1,4 @@
-<a href="https://algorithm-visualizer.vercel.app/">
+
     <img src="./src/assets/heading_logo.png" alt="Algo Visualizer" title="Algorithm Visualizer" align="left" height="70" />
 </a>
 <br/><br/>
@@ -7,7 +7,7 @@
 
 Fascinated with DS and Algorithm?!!</br>
 This website can be used to visualize multiple algorithms which includes Sorting, Pathfinding and ConvexHull. You can access it here:
-https://algorithm-visualizer.vercel.app/
+
 
 
 
