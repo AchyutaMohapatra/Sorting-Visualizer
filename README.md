@@ -9,7 +9,7 @@ Fascinated with DS and Algorithm?!!</br>
 This website can be used to visualize multiple algorithms which includes Sorting, Pathfinding and ConvexHull. You can access it here:
 https://algorithm-visualizer.vercel.app/
 
-![Branch master](https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/arnabuchiha/Algorithm-Visualizer/blob/master/LICENSE)
+
 
 
 ## Algorithms
