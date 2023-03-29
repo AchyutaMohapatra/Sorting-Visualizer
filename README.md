@@ -34,7 +34,7 @@ This website can be used to visualize multiple algorithms which includes Sorting
 ## Installation
 
 - Install Node on your computer
-- Clone this repository and the backend repository from <a href="https: .
+- Clone this repository and the backend repository from <a href="https://github.com/AchyutaMohapatra/Sorting-Visualizer.git"
 - Open CMD on your computer and change the directory to the place where you cloned the front-end repository.
 - Run the command **npm install** to install all the necessary packages from node server.
 - Now run the command **npm start** to run the app on your localhost.
